@@ -17,48 +17,55 @@
 
 
 ### ⚒️ Skills
-
-#### Languages
+#### Programlama Dilleri
 
 <p align="center">
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/csharp.svg" alt="C#" width="50" height="50"/>
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/java.svg" alt="Java" width="50" height="50"/>
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/html5.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/css3.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="C#" width="50" height="50"/>
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/java-dark.svg" alt="Java" width="50" height="50"/>
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" alt="Python" width="50" height="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" alt="C++" width="50" height="50"/>
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/python.svg" alt="Python" width="50" height="50"/>
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/cplusplus.svg" alt="C++" width="50" height="50"/>
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/sql.svg" alt="SQL" width="50" height="50"/>
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/bootstrap.svg" alt="Bootstrap" width="50" height="50"/>
 </p>
 
-#### Tools
+#### Web Teknolojileri
 
 <p align="center">
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/androidstudio.svg" alt="Android Studio" width="50" height="50"/>
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" alt="CSS" width="50" height="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" alt="Bootstrap" width="50" height="50"/>
+</p>
+
+#### Veritabanı Yönetimi
+
+<p align="center">
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/unrealengine.svg" alt="Unreal Engine" width="50" height="50"/>
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" alt="Postman" width="50" height="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/SQL-Developer.svg" alt="SQL" width="50" height="50"/>
+</p>
+
+#### Geliştirme Araçları
+
+<p align="center">
+  <img src="https://icon.icepanel.io/Technology/svg/Android-Studio.svg" alt="Android Studio" width="50" height="50"/>
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio.svg" alt="Visual Studio" width="50" height="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" alt="Anaconda" width="50" height="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Eclipse-IDE.svg" alt="Eclipse" width="50" height="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/IntelliJ-IDEA.svg" alt="Intellij" width="50" height="50"/>
+</p>
+
+#### Sürüm Kontrolü ve İşbirliği
+
+<p align="center">
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" alt="Git" width="50" height="50"/>
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" alt="GitHub" width="50" height="50"/>
 </p>
 
-#### Frameworks, Platforms and Libraries
+#### Test Otomasyon Araçları ve Çerçeveleri
 
 <p align="center">
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/selenium/selenium.svg" alt="Selenium" width="50" height="50"/>
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/gauge/gauge.svg" alt="Gauge" width="50" height="50"/>
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/cucumber/cucumber.svg" alt="Cucumber" width="50" height="50"/>
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/karate/karate.svg" alt="Karate" width="50" height="50"/>
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/bootstrap/bootstrap.svg" alt="Bootstrap" width="50" height="50"/>
-</p>
-
-#### Databases
-
-<p align="center">
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium" width="50" height="50"/>
+  <img src="https://gauge.org/Gauge_Badge.svg" alt="Gauge" width="50" height="50"/>
+   <img src="https://icon.icepanel.io/Technology/svg/JUnit.svg" alt="JUnit" width="50" height="50"/>
 </p>
 
 ---
@@ -71,20 +78,13 @@
 
 ---
 
-### 🌱 Currently Learning
 
-- 🔭 I’m currently working on [Project Name](project link)
-- 🌱 I’m currently learning [Technology/Skill]
-- 👯 I’m looking to collaborate on [Project/Collaboration]
-- 🤔 I’m looking for help with [Project/Help]
-
----
 
 ### 📫 How to reach me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/"><img src="https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=linkedin&color=0077B5"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-informational?style=flat-square&logo=gmail&color=EA4335"/></a>
+  <a href="https://www.linkedin.com/in/mehmet-eskici-8378a5230//"><img src="https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=linkedin&color=0077B5"/></a>
+  <a href="mailto:mehmet_eskici17@hotmail.com"><img src="https://img.shields.io/badge/Email-informational?style=flat-square&logo=gmail&color=EA4335"/></a>
 </p>
 
 ---
