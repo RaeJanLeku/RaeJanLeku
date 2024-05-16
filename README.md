@@ -105,7 +105,7 @@
 ---
 ### 📫 How to reach me
 
-<p align="center" style="display: flex; justify-content: center;>
+<p align="center">
   <a href="https://www.linkedin.com/in/mehmet-eskici-8378a5230//"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/linkedin.svg" alt="LinkdIn" width="50" height="50"/></a>
   <a href="mailto:mehmet_eskici17@hotmail.com"><img src="https://www.svgrepo.com/show/373951/outlook.svg" alt="Outlook" width="50" height="50"/></a>
 </p>
