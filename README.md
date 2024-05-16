@@ -3,9 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJvemI2eW12dXpndHZqeWVoZ21qMWFjOTJudXp5Y3BjcHUwZ2tleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="125" height="125"/>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHppYzhuamwxNnQ4c3A3aDZ1Mmdhdm0xaXdmaTRtejY1M3hpcnVmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif" width="125" height="125"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJvemI2eW12dXpndHZqeWVoZ21qMWFjOTJudXp5Y3BjcHUwZ2tleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="550" height="200"/>
+ 
 </p>
 
 <p align="center">
@@ -17,7 +16,7 @@
 
 ### <p align="center">⚒️ Skills</p>
 
-#### Programlama Dilleri
+#### Programming Languages
 
 <p align="center" style="display: flex; justify-content: center;>
   <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="C#" width="50" height="50"/>
@@ -28,7 +27,7 @@
 </p>
 
 ---
-#### Web Teknolojileri
+#### Web Technologies
 
 <p align="center" style="display: flex; justify-content: center;>
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" alt="HTML" width="50" height="50"/>
@@ -37,7 +36,7 @@
 </p>
 
 ---
-#### Veritabanı Yönetimi
+#### Database Management
 
 <p align="center" style="display: flex; justify-content: center;>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" width="50" height="50"/>
@@ -48,7 +47,7 @@
 </p>
 
 ---
-#### Geliştirme Araçları
+#### Development Tools
 
 <p align="center" style="display: flex; justify-content: center;>
   <img src="https://icon.icepanel.io/Technology/svg/Android-Studio.svg" alt="Android Studio" width="50" height="50"/>
@@ -65,7 +64,7 @@
 </p>
 
 ---
-#### Sürüm Kontrolü ve İşbirliği
+#### Version Control and Collaboration
 
 <p align="center" style="display: flex; justify-content: center;">
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" alt="Git" width="50" height="50"/>
@@ -73,7 +72,7 @@
 </p>
 
 ---
-#### Test Otomasyon Araçları ve Çerçeveleri
+#### Test Automation Tools and Frameworks
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <p align="center">
@@ -87,7 +86,7 @@
 
 
 ---
-### Test Yönetim Araçları 
+### Test Management Tools
 
 <p align="center" style="display: flex; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg" alt="Trello" width="50" height="50"/>
