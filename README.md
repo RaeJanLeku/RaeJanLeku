@@ -1,5 +1,13 @@
-### Hi there 👋
-
+### Hi there I'm Mehmet👋
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJvemI2eW12dXpndHZqeWVoZ21qMWFjOTJudXp5Y3BjcHUwZ2tleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="125" height="125"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHppYzhuamwxNnQ4c3A3aDZ1Mmdhdm0xaXdmaTRtejY1M3hpcnVmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif" width="125" height="125"/>
+</p>
+<h1 align="center">
+  Hey There I'm Batıhan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <!--
 **RaeJanLeku/RaeJanLeku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
